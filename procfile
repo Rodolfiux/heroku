@@ -1,1 +1,2 @@
 web:node backend/src/server.ts
+web:node frontend/src/services/index.jsx
